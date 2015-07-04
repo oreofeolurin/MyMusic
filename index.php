@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" media="screen,projection" href="src/style/index.css" />
-<title>My Mysic</title>
+<title>My Music</title>
 
 <style>
 
